@@ -20,3 +20,4 @@ def adivina_el_numero():
 
 adivina_el_numero()
 # Commit automático del día 2
+# Commit automático del día 2
