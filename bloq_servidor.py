@@ -23,3 +23,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server:
         except KeyboardInterrupt:
             print("\nServidor detenido.")
 # Commit automático del día 5
+# Commit automático del día 5
