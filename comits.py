@@ -32,3 +32,4 @@ for i in range(days):
 
 # Subir todos los commits en un solo comando
 subprocess.run(["git", "push", "origin", branch])# Commit automático del día 8
+# Commit automático del día 8
