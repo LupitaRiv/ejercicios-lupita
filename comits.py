@@ -31,4 +31,4 @@ for i in range(days):
         print(f"Archivo {file_name} no encontrado, saltando...")
 
 # Subir todos los commits en un solo comando
-subprocess.run(["git", "push", "origin", branch])
+subprocess.run(["git", "push", "origin", branch])# Commit automático del día 8
