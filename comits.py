@@ -3,9 +3,9 @@ from datetime import datetime, timedelta
 import os
 
 # Configuración
-repo_dir = "/home/rafael/Documents/Python_Exercises2"  # Cambia por la ruta de tu repositorio local
-start_date = datetime(2024, 11, 12)  # Fecha de inicio
-days = 8  # Número de archivos/días
+repo_dir = "/home/guadalupe/Vídeos/EJE/"  # Cambia por la ruta de tu repositorio local
+start_date = datetime(2025, 4, 22)  # Fecha de inicio
+days = 26  # Número de archivos/días
 branch = "master"  # Rama en la que estás trabajando
 
 # Cambia a la carpeta del repositorio
