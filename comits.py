@@ -4,8 +4,8 @@ import os
 
 # Configuración
 repo_dir = "/home/guadalupe/Vídeos/EJE/"  # Cambia por la ruta de tu repositorio local
-start_date = datetime(2025, 4, 22)  # Fecha de inicio
-days = 26  # Número de archivos/días
+start_date = datetime(2025, 5, 3)  # Fecha de inicio
+days = 20  # Número de archivos/días
 branch = "master"  # Rama en la que estás trabajando
 
 # Cambia a la carpeta del repositorio
